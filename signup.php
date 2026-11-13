@@ -30,7 +30,7 @@ button{width:100%;padding:10px;background:#2a6fdb;color:#fff;border:0;border-rad
 </style></head>
 <body>
 <form method="POST">
-  <h2>Sign Up</h2>
+  <h2>CAT 2 Sign Up- 192224</h2>
   <p><?php echo $msg; ?></p>
   <label>Username</label><input type="text" name="username" required>
   <label>Email</label><input type="email" name="email" required>
